@@ -4,6 +4,6 @@
 
 int main()
 {
-  cout << "YOOOOOOO" << endl;
+  cout << "Hello world!" << endl;
   return 0;
 }
